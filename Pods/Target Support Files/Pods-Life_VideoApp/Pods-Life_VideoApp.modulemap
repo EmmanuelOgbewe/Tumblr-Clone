@@ -1,0 +1,6 @@
+framework module Pods_Life_VideoApp {
+  umbrella header "Pods-Life_VideoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
